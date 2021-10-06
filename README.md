@@ -2,7 +2,7 @@
 
 My name is Dima and i'm a creator from Tel Aviv, Israel. I'm excited about web technologies and developer UX and tooling.
 
-🔭 I’m currently building [Notifire](https://github.com/notifirehq/notifire) an open source library to manage multi-channel notification with a single API.
+🔭 I’m **currently building [Notifire](https://github.com/notifirehq/notifire)** an open source library to manage multi-channel notification with a single API.
 
 
 <!--
