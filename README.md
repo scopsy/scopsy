@@ -4,6 +4,8 @@ My name is Dima and i'm a creator from Tel Aviv, Israel. I'm excited about web t
 
 🔭 I’m **currently building [Notifire](https://github.com/notifirehq/notifire)** an open source library to manage multi-channel notification with a single API.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notifirehq&repo=notifire)](https://github.com/notifirehq/notifire)
+
 
 <!--
 **scopsy/scopsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
