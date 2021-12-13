@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dima and i'm a creator from Tel Aviv, Israel. I'm excited about web technologies and developer UX and tooling.
+My name is Dima and i'm a creator from Tel Aviv, Israel. I'm excited about web technologies, developer UX and tooling.
 
 🔭 I’m **currently building [Notifire](https://github.com/notifirehq/notifire)** an open source notification infrastructure for products.
 
