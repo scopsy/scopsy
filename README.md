@@ -1,26 +1,19 @@
 ### Hi there 👋
 
-My name is Dima and i'm a creator from Tel Aviv, Israel. I'm excited about web technologies, developer UX and tooling.
+My name is Dima and i'm a fullstack engineer and open-source creator at nights. I'm excited about web technologies, developer UX and tooling.
 
-🔭 I’m **currently building [Notifire](https://github.com/notifirehq/notifire)** an open source notification infrastructure for products.
+My Javascript Tech Stack:
+- Nest.js for backend development
+- React.js with Next.js or CRA (depending on the project)
+- MongoDB
 
+
+
+![Cover (2)](https://user-images.githubusercontent.com/8872447/156371646-3998f1dd-0344-4aab-8938-bf76ea05a77c.png)
+
+ I’m currently building **[Notifire](https://github.com/notifirehq/notifire)** an open source notification infrastructure for products.
+ And we are actively looking for new contributors. Familiar with **React** or **Node.js**? jump to our [GitHub page](https://github.com/notifirehq/notifire) and learn more 🙏.
+ 
+---- 
+ 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notifirehq&repo=notifire)](https://github.com/notifirehq/notifire)
-
-
-<!--
-**scopsy/scopsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fscopsy%2Fscopsy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=&edge_flat=true)](https://hits.seeyoufarm.com)
